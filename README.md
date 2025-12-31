@@ -1,4 +1,4 @@
-# Bull Team - Jeju Folklore Digital Storytelling
+# Bull Team - Jeju Folklore Digital Storytelling, ì œì£¼ ì´ì•¼ê¸°
 
 > **Patent Pending** - ê¹€ì§€í˜„, ë°•ì†Œì˜, ìœ¤ì„¸ì •, ì´ë³‘ë‚¨, ì •ê´‘ì‹
 >
@@ -7,19 +7,15 @@
 This repository contains the presentation for Bool 4 Team's Jeju folklore interactive storytelling platform:
 **The Story of the Old Stump** - GPS-based interactive digital storytelling platform for Jeju Island cultural heritage preservation
 
-## í¼ Platform
+## ğŸŒ Platform (for actual project overview)
 
 Live platform: **https://oreumi.yogaman.club**
 
-## íº€ Live Presentation
+## ğŸš€ Live Presentation
 
 Visit the live presentation at: **https://aiegoo.github.io/oreumi-bull4team**
 
-## í³± Mobile Control
-
-For presentation control from mobile devices, use: **https://aiegoo.github.io/oreumi-bull4team/control.html**
-
-## í¾¯ Project Features
+## ğŸ¯ Project Features
 
 ### Jeju Folklore Interactive Storytelling Platform
 - **Target Audience**: Families hiking Jeju Oreum/Doole-gil trails
@@ -34,7 +30,7 @@ For presentation control from mobile devices, use: **https://aiegoo.github.io/or
 - Personal folklore journal collection and cultural badge system
 - Location-aware storytelling that triggers based on GPS coordinates
 
-## ï¿½ï¿½ï¸ Technical Stack
+## ğŸ› ï¸ Technical Stack (for presentation)
 
 - **Framework**: Reveal.js presentation framework
 - **Theme**: Custom dark theme with gradient backgrounds
@@ -42,7 +38,7 @@ For presentation control from mobile devices, use: **https://aiegoo.github.io/or
 - **Mobile Control**: Real-time presentation control interface
 - **Hosting**: GitHub Pages
 
-## í³ Project Structure
+## ğŸ“ Project Structure
 
 ```
 oreumi-bull4team/
@@ -61,7 +57,7 @@ oreumi-bull4team/
 â””â”€â”€ README.md           # This file
 ```
 
-## í¾¨ Design Philosophy
+## ğŸ¨ Design Philosophy
 
 The presentation follows a modern, professional design approach:
 
@@ -70,8 +66,6 @@ The presentation follows a modern, professional design approach:
 - **Animation**: Subtle fade-in effects and transitions
 - **Mobile-First**: Responsive design for all devices
 - **Accessibility**: High contrast and keyboard navigation support
-
-## í¾® Navigation Controls
 
 ### Presentation Controls
 - **Arrow Keys**: Navigate between slides
@@ -87,7 +81,7 @@ The presentation follows a modern, professional design approach:
 - Connection status monitoring
 - Real-time slide information
 
-## íº€ Deployment
+## ğŸš€ Deployment
 
 This presentation is automatically deployed to GitHub Pages when changes are pushed to the main branch.
 
@@ -109,20 +103,20 @@ cd oreumi-bull4team
 open index.html
 ```
 
-## í±¥ Team Information
+## ğŸ‘¥Team Information
 
 **Bull Team - Oreumi Track**
 - Focus: Digital Innovation and User Experience
-- Platform: Goorm IDE Development Environment
+- Platform: AWS, ESTSoftware and Jeju Halla University (RISE)
 - Goal: Creating meaningful digital experiences through technology
 
-## í³§ Contact
+## ğŸ“§ Contact
 
 For questions or collaboration opportunities:
 - Repository: [github.com/aiegoo/oreumi-bull4team](https://github.com/aiegoo/oreumi-bull4team)
 - Team: Bull Team Oreumi Track
 
-## í³„ License
+## ğŸ“„ License
 
 This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
 
@@ -130,4 +124,4 @@ The Apache License 2.0 includes a patent grant, ensuring that users of this open
 
 ---
 
-*Innovation through Technology & User Experience* íº€
+*Innovation through Technology & User Experience* ğŸš€
