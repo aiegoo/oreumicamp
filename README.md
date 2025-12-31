@@ -1,6 +1,8 @@
 # Bull Team - Jeju Folklore Digital Storytelling
 
 > **Patent Pending** - 김지현, 박소영, 윤세정, 이병남, 정광식
+>
+> *Note: This patent application is filed for defensive purposes to protect the innovation. This repository is licensed under Apache License 2.0, which grants users a royalty-free patent license for contributions in this codebase. The patent pending notice serves as notification of our intellectual property protection strategy, not as a restriction on the open source license terms.*
 
 This repository contains the presentation for Bool 4 Team's Jeju folklore interactive storytelling platform:
 **The Story of the Old Stump** - GPS-based interactive digital storytelling platform for Jeju Island cultural heritage preservation
@@ -32,7 +34,7 @@ For presentation control from mobile devices, use: **https://aiegoo.github.io/or
 - Personal folklore journal collection and cultural badge system
 - Location-aware storytelling that triggers based on GPS coordinates
 
-## ���️ Technical Stack
+## ��️ Technical Stack
 
 - **Framework**: Reveal.js presentation framework
 - **Theme**: Custom dark theme with gradient backgrounds
@@ -119,6 +121,12 @@ open index.html
 For questions or collaboration opportunities:
 - Repository: [github.com/aiegoo/oreumi-bull4team](https://github.com/aiegoo/oreumi-bull4team)
 - Team: Bull Team Oreumi Track
+
+## ��� License
+
+This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
+
+The Apache License 2.0 includes a patent grant, ensuring that users of this open source project have the necessary patent rights to use, modify, and distribute the software without patent litigation concerns.
 
 ---
 
