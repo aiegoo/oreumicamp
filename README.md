@@ -1,4 +1,4 @@
-# Bull Team - Jeju Folklore Digital Storytelling, 제주 이야기
+# Bull4Team - Jeju Folklore Digital Storytelling, 제주 이야기
 
 > **Patent Pending** - 김지현, 박소영, 윤세정, 이병남, 정광식
 >
