@@ -1,41 +1,46 @@
 # Bull Team - Jeju Folklore Digital Storytelling
 
-This repository contains the presentation for Bool 4 Team's Jeju folklore interactive storytelling platform:
+> **Patent Pending** - 김지현, 박소영, 윤세정, 이병남, 정광식
 
+This repository contains the presentation for Bool 4 Team's Jeju folklore interactive storytelling platform:
 **The Story of the Old Stump** - GPS-based interactive digital storytelling platform for Jeju Island cultural heritage preservation
 
-## 🚀 Live Presentation
+## ��� Platform
+
+Live platform: **https://oreumi.yogaman.club**
+
+## ��� Live Presentation
 
 Visit the live presentation at: **https://aiegoo.github.io/oreumi-bull4team**
 
-## 📱 Mobile Control
+## ��� Mobile Control
 
 For presentation control from mobile devices, use: **https://aiegoo.github.io/oreumi-bull4team/control.html**
 
-## 🎯 Project Features
+## ��� Project Features
 
 ### Jeju Folklore Interactive Storytelling Platform
 - **Target Audience**: Families hiking Jeju Oreum/Doole-gil trails
 - **Core Value**: Cultural heritage preservation, environmental awareness, and interactive tourism
 - **Technology**: React.js + PWA, GPS integration, AR features, **NLP & Machine Learning**
 - **Features**:
-	- GPS-based folklore discovery using real Jeju legends (영천악 용 전설, 효돈천 신선, 쇠소깍 사랑 이야기)
-	- Card-based discovery gaming system with folklore categories
-	- Jeju dialect audio narration with cultural pronunciation
-	- Interactive Q&A: "이 나무가 왜 여기 있어요?" → Local legend-based responses
-	- AR overlays: Virtual dragons, traditional hanbok, interactive spirit guides
-	- Personal folklore journal collection and cultural badge system
-	- Location-aware storytelling that triggers based on GPS coordinates
+- GPS-based folklore discovery using real Jeju legends (영천악 용 전설, 효돈천 신선, 쇠소깍 사랑 이야기)
+- Card-based discovery gaming system with folklore categories
+- Jeju dialect audio narration with cultural pronunciation
+- Interactive Q&A: "이 나무가 왜 여기 있어요?" → Local legend-based responses
+- AR overlays: Virtual dragons, traditional hanbok, interactive spirit guides
+- Personal folklore journal collection and cultural badge system
+- Location-aware storytelling that triggers based on GPS coordinates
 
-## 🛠️ Technical Stack
+## ���️ Technical Stack
 
-- **Framework**: Reveal.js presentation framewor	k
+- **Framework**: Reveal.js presentation framework
 - **Theme**: Custom dark theme with gradient backgrounds
 - **Styling**: CSS3 with animations and responsive design
 - **Mobile Control**: Real-time presentation control interface
 - **Hosting**: GitHub Pages
 
-## 📁 Project Structure
+## ��� Project Structure
 
 ```
 oreumi-bull4team/
@@ -54,7 +59,7 @@ oreumi-bull4team/
 └── README.md           # This file
 ```
 
-## 🎨 Design Philosophy
+## ��� Design Philosophy
 
 The presentation follows a modern, professional design approach:
 
@@ -64,7 +69,7 @@ The presentation follows a modern, professional design approach:
 - **Mobile-First**: Responsive design for all devices
 - **Accessibility**: High contrast and keyboard navigation support
 
-## 🎮 Navigation Controls
+## ��� Navigation Controls
 
 ### Presentation Controls
 - **Arrow Keys**: Navigate between slides
@@ -80,7 +85,7 @@ The presentation follows a modern, professional design approach:
 - Connection status monitoring
 - Real-time slide information
 
-## 🚀 Deployment
+## ��� Deployment
 
 This presentation is automatically deployed to GitHub Pages when changes are pushed to the main branch.
 
@@ -102,14 +107,14 @@ cd oreumi-bull4team
 open index.html
 ```
 
-## 👥 Team Information
+## ��� Team Information
 
 **Bull Team - Oreumi Track**
 - Focus: Digital Innovation and User Experience
 - Platform: Goorm IDE Development Environment
 - Goal: Creating meaningful digital experiences through technology
 
-## 📧 Contact
+## ��� Contact
 
 For questions or collaboration opportunities:
 - Repository: [github.com/aiegoo/oreumi-bull4team](https://github.com/aiegoo/oreumi-bull4team)
@@ -117,4 +122,4 @@ For questions or collaboration opportunities:
 
 ---
 
-*Innovation through Technology & User Experience* 🚀
+*Innovation through Technology & User Experience* ���
