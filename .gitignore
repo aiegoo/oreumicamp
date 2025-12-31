@@ -1,0 +1,6 @@
+# Ignore team member data for privacy
+team-data/members.csv
+team-data/jeju-stories/sources/node_modules/
+
+# Claude Code settings
+.claude/
